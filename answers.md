@@ -65,9 +65,18 @@
 
 
 
+10)	No, not yet
 
 
 
+11) 	No, not yet
 
+
+
+12)	Yes
+
+
+
+13)	 .  ..  .git  .gitignore  README.md
 
 
